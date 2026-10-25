@@ -128,5 +128,5 @@ Genera los archivos estáticos en `dist/`, listos para desplegar en cualquier ho
 ## Autor
 
 **Juan Diego Negrete Portillo**
-Estudiante de Ingeniería de Sistemas y Telecomunicaciones — Universidad de Córdoba
+Estudiante de Ingeniería de Sistemas — Universidad de Córdoba
 [Portafolio](https://juanchiz1.github.io/Portafolio-Juan_Diego_Negrete/) · [LinkedIn](https://www.linkedin.com/in/juan-diego-negrete-portillo-352111195/) · [GitHub](https://github.com/Juanchiz1)
